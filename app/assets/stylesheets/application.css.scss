@@ -14,13 +14,12 @@
  *= require_self
  */
 
-
-
+ 
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
 body {
-	background: #3090C7;
+	background: #AA4847;
 }
 
 .review_title {
@@ -28,7 +27,7 @@ body {
 }
 .reviews {
 	padding: 15px 0;
-	border-bottom: 1px solid #FF8040;
+	border-bottom: 1px solid #EAEAEA;
 	.star-rating {
 		padding-bottom: 8px;
 	}
