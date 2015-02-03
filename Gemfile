@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 
 gem 'rails', '4.1.8'
@@ -24,3 +24,4 @@ gem 'haml', '~> 4.0.6'
 gem 'paperclip', '~> 4.2.1'
 gem 'bootstrap-sass', '~> 3.3.3'
 gem 'searchkick', '~> 0.8.5'
+gem 'cocaine', '0.5.3'
